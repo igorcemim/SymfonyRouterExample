@@ -1,0 +1,12 @@
+{
+    "require": {
+		"symfony/routing": "2.6.*@dev",
+		"symfony/http-foundation": "2.6.*@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Application\\":  "src",
+			"Config\\":  "src"
+        }
+    }
+}
