@@ -1,4 +1,4 @@
 SymfonyRouterExample
 ====================
 
-Examplo utilizando o Routing Component do Symfony.
+Exemplo utilizando o Routing Component do Symfony.
